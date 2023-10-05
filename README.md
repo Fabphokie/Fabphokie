@@ -1,4 +1,4 @@
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabphokie" alt="fabphokie" /></a> </p>
 ## Introduction 👋
 Hello, my name is Mmaphokeng Senne, and I have a strong foundation in programming fundamentals. With a year of education and training at Codespace, I've developed a solid understanding of the core principles and technologies that drive our industry.
 
